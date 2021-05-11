@@ -1,3 +1,34 @@
+
+# Thematic roles used in the study
+The table below summarizes the thematic roles used in the description of argument structures (by ovák, A., Laki, L. J., Novák, B., Dömötör, A., Ligeti-Nagy, N., and Kalivoda, Á. (2019a). Creation of a corpus with semantic role labels for Hungarian. In A. Friedrich, D. Zeyrek, and J. Hoek (Eds.) Proceedings of the 13th Linguistic Annotation Workshop, LAW@ACL 2019, Florence, Italy, August 1, 2019, (pp. 220–229). Association for Computational Linguistics. URL: https://doi.org/10.18653/v1/w19-4026Ö. The first column shows the annotation itself. The second column contains the name of the given thematic role. The third column presents the typical question(s) of the given role. Finally, an example sentence is given in the fourth column, where the phrase with the given role is in bold.
+
+
+| **Annotation** | **Name** | **Question regarding the verb** | **Example**  |
+|---|---|---|---|
+|	AG | agent | What is AG doing? | **John** has climbed the tree.  |
+|	CHAR | characterised | What is characteristic of CHAR? | **Expertise** is an advantage.  |
+|	ATTR | attribute | - | Expertise is **an advantage**.  |
+|	EXP | experiencer | How does EXP feel? What has EXP perceived? | **John** has seen a swallow. |	
+|	PAT | patient | What happened to PAT? | John kissed **Mary**.  |
+|	PATDST  | patient-destination | What happened to PAT.to?  Where did PAT get to?  | He painted **the wall** green.  |
+|	TH | theme | - | John relies **on his intuition**.  |
+|	ST | stimulus | What effect has ST (on EXP)? | John loves **Mary**.|
+|	CONT | information content | - | John presented **the plan** to Joe.  |
+|	REC | recipient | - | John presented the plan **to Joe**.   **Mary** received a letter.  |
+|	RES | result | How did RES come into being? | Mary baked **a cake**.  |
+|	INS | instrument | What is AG using INS for? | John travels to work **by scooter**.  |
+|	CAU | causer | What did CAU cause? What was the consequence of CAU?| John was late **because of an accident**.  |
+|	MOT | motivation | - | John is studying to be **an engineer**.  |
+|	LOC | location | What happened in/at/on... LOC? | John kissed Mary **in the cinema**.  |
+|	SRC | source, starting point | - | John came **out of the room**.  Mary received a letter **from John**. |
+|	DST | destination | How did AG/PAT get to DST? | John went **into the room**.  |
+|	HOW | mode | - | John **deftly** climbed the tree.  |
+|	ASPECT | aspect | - | John is doing well **financially**.  |
+|	ACT | action | - | John wants **to work** from home.  |
+
+# Categories and thematic roles 
+This table summarizes the categories of locative adverbials and their possible thematic roles with the given suffixes. The cells indicate what thematic role the members of a given category can take with the given suffix. LOC-T, DST-T are the time adverbial pairs of LOC and DST answering the question When? and For when?, respectively. *bAn*, *bA*, *nÁl* etc. as a cell content indicates that the given category with the given suffix does not have a specific thematic role but answers the questions *Mi-ben?* ’What-Ine’, *Mibe?* ’What-Ill’, etc. If this suffix follows a tag (e.g. *WHO-bAn*), then the tag marks the proper wh-question that has to be used (e.g. *Ki-ben?* ’WHO-Ine’). Examples are: DEM: demonstrative role (Which?); QUANT: quantifiers with the possible questions ’How many?’, ’How much?’; FORM: describing some formal properties of the given act; CITY and LAND are tags for names of cities and countries. Any other tag not part of the above table is a novel proposal. CIRC: describing the circumstances of a given event; DIR: specifying the direction of a given act; MATER: describing the material of the thing in question; STA: giving information about the state of a participant; NUM_SIZE: a numeral denoting a (relative or absolute) size of something; SITU: specifying a situation that is the result or the source of a given action.
+
 | category   |          | case_endings |              |             |             |              |             |              |              |              |
 |------------|----------|--------------|--------------|-------------|-------------|--------------|-------------|--------------|--------------|--------------|
 | main       | suppl    | bAn          | nÁl          | On          | bA          | hOz          | rA          | bÓl          | tÓl          | rÓl          |

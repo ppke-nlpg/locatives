@@ -1,1 +1,1 @@
-# locatives
+This repo contains data on the categorization of locative case suffixes discussed in the 4th chapter of the thesis of Noémi Ligeti-Nagy (The Right Edge of the Hungarian NP -- A Computational Approach. Pázmány Péter Catholic University, Doctoral School of Linguistics. Submitted in 2021)
